@@ -1,0 +1,67 @@
+h1{text-align:center; font-family: 'Sacramento', cursive, sans-serif; font-size:100px; margin:100px auto 0 auto;}
+h2{text-align:center; font-family: 'Montserrat', sans-serif; color: #66BFBF;}
+h3{text-align:center; font-family: 'Montserrat', sans-serif; font-size:25px;}
+h4{text-align:center; font-size: 17px;}
+p{text-align:center;}
+body{margin:0; text-align: center; font-family: 'Merriweather', serif;}
+.top-container {background-color: #E4F9F5; position:relative; padding-top: 100px;}
+.cloud_1 {position: absolute; right: 0; top: 50px;}
+.cloud_2 {position: absolute; right: 170px; top: 300px;}
+.cloud_3 {position: absolute; right: 350px; top: 140px;}
+.cloud_4 {position: absolute; right: 550px; top: 50px;}
+.cloud_5 {position: absolute; right: 880px; top: 50px;}
+.cloud_6 {position: absolute; right: 1200px; top: 50px;}
+.cloud_7 {position: absolute; right: 1450px; top: 140px;}
+.cloud_8 {position: absolute; right: 1600px; top: 300px;}
+.cloud_9 {position: absolute; right: 1750px; top: 50px;}
+.profilename {font-size:40px;}
+.profile_pic {position: relative; width: 250px; height: 250px;}
+.profile_description {font-size:20px;}
+.programming_skills_pic {width: 350px; height: 300px;}
+.Engineering_and_Others_pic {width: 550px; height: 300px;}
+.Engineering_and_Others_row {margin: auto; width: 80%; line-height: 2;}
+.mySkills {font-size:40px;}
+.education {font-size:40px;}
+.Professional_Experience {font-size:40px;}
+.professional-row {margin: auto; width: 80%;}
+.professional-row2 {line-height:2}
+.Internships_Experience {font-size:40px;}
+.Internships-row {margin: auto; width: 80%;line-height:2}
+.Courses {font-size:40px;}
+.hobbies_row {float: left; width:50%; margin: auto; text-align: center;
+line-height: 2;}
+.Interests_row {float: right; width:50%; margin: auto; text-align: center;
+line-height: 2;}
+.Hobbies_title {font-size:40px;}
+.Hobbies_pic {width: 350px; height: 350px;}
+hr {border: dotted #EAF6F6 6px; border-bottom: none; width: 4%; margin: 50px auto;}
+.bottom-container {background-color: #66BFBF; padding-top:20px;}
+.getintouch {font-size: 35px;}
+a {margin: 10px 20px; text-decoration: none}
+a:hover {color: #EAF6F6;}
+.CONTACT_ME {
+  margin-bottom: 50px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #00bbff 5%, #408c99 100%);
+	background-color:#00bbff;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.CONTACT_ME:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #00bbff 100%);
+	background-color:#408c99;
+}
+.CONTACT_ME:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {color:#EAF6F6; font-size: 0.75rem; padding: 20px 0;}
