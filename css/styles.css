@@ -14,6 +14,7 @@ body{margin:0; text-align: center; font-family: 'Merriweather', serif;}
 .cloud_7 {position: absolute; right: 1450px; top: 140px;}
 .cloud_8 {position: absolute; right: 1600px; top: 300px;}
 .cloud_9 {position: absolute; right: 1750px; top: 50px;}
+.profile {margin: auto; width: 80%; line-height: 2;}
 .profilename {font-size:40px;}
 .profile_pic {position: relative; width: 250px; height: 250px;}
 .profile_description {font-size:20px;}
